@@ -1,0 +1,15 @@
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\bin\Debug\net8.0\APBD_TTask1.exe
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\bin\Debug\net8.0\APBD_TTask1.deps.json
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\bin\Debug\net8.0\APBD_TTask1.runtimeconfig.json
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\bin\Debug\net8.0\APBD_TTask1.dll
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\bin\Debug\net8.0\APBD_TTask1.pdb
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.AssemblyInfoInputs.cache
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.AssemblyInfo.cs
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.csproj.CoreCompileInputs.cache
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.sourcelink.json
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.dll
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\refint\APBD_TTask1.dll
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.pdb
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\APBD_TTask1.genruntimeconfig.cache
+C:\Users\s33440\Desktop\Task1\APBD_TTask1\obj\Debug\net8.0\ref\APBD_TTask1.dll
