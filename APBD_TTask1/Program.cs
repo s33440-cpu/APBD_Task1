@@ -11,7 +11,7 @@ else
 }
 
 
-List<int> numbers = new List<int> { 5, 10, 15 };
+List<int> numbers = new List<int> { number, 5, 10, 15 };
 double average = StatisticsHelper.CalculateAverage(numbers);
 Console.WriteLine($"Average: {average}");
     
