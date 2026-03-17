@@ -28,4 +28,6 @@ public static class StatisticsHelper{
             return values.Average();
             //useless message
         }
+
+        //useless message 3
 }
