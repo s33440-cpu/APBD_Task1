@@ -9,3 +9,12 @@ else
 {
     Console.WriteLine("Invalid input. Please enter a valid number.");
 }
+
+
+public static class StatisticsHelper
+{
+    public static double CalculateAverage(List<int> numbers)
+    {
+        return numbers.Average();
+    }
+}
