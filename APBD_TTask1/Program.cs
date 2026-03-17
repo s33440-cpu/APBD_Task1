@@ -24,6 +24,7 @@ public static class StatisticsHelper{
 
         public static double CalculateAverage(int[] values)
         {
+            //A useless message for a useless commit :P
             if (values.Length == 0) return 0;
             return values.Average();
         }
