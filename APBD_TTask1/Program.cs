@@ -11,10 +11,14 @@ else
 }
 
 
-public static class StatisticsHelper
-{
-    public static double CalculateAverage(List<int> numbers)
-    {
-        return numbers.Average();
-    }
+List<int> numbers = new List<int> { 5, 10, 15 };
+double average = StatisticsHelper.CalculateAverage(numbers);
+Console.WriteLine($"Average: {average}");
+    
+
+public static class StatisticsHelper{
+        public static double CalculateAverage(List<int> numbers)
+        {
+            return numbers.Average();
+        }
 }
