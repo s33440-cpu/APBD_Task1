@@ -39,5 +39,6 @@ public static class StatisticsHelper{
                 if (values[i] < min) min = values[i];
             }
             return min;
+            //useless message 2
         }
 }
