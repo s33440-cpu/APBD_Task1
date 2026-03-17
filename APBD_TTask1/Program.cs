@@ -30,4 +30,14 @@ public static class StatisticsHelper{
         }
 
         //useless message 3
+        public static int CalculateMin(int[] values)
+        {
+            if (values.Length == 0) return int.MaxValue;
+            int min = values[0];
+            for (int i = 1; i < values.Length; i++)
+            {
+                if (values[i] < min) min = values[i];
+            }
+            return min;
+        }
 }
