@@ -26,5 +26,6 @@ public static class StatisticsHelper{
         {
             if (values.Length == 0) return 0;
             return values.Average();
+            //useless message
         }
 }
